@@ -1,1 +1,2 @@
 1. Violín Djersen 3/4 Brillo - MV-02
+2. Guitarra Acústica Fender FC-1 Classical - Natural 
