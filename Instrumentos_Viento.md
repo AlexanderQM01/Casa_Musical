@@ -8,3 +8,5 @@ INSTRUMENTO DE VIENTO
 7. Fagot 
 8. Corneta
 9. Flautita dulce
+10. Zampoña
+11. Quena
